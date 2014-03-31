@@ -1,0 +1,22 @@
+{
+   "background": {
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "icon-128.png",
+      "default_title": "TicoYoutube Downloader"
+   },
+   "description": "directly download videos from YouTube - Created by www.jamesjara.com",
+   "homepage_url": "http://tico-youtube.blogspot.com/p/how-to-install-ticoyoutube-downloader.html",
+   "icons": {
+      "128": "icon-128.png",
+      "16": "icon-16.png",
+      "48": "icon-48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDSEmQbVinaLvAbEUfS7Tuge6gurqIW4QotpNMbBX6S3bxAcj9QaAneSPiLR8mi1pbLxLVnH8zkR459foMQDI5WS0PsflQljZFuo1lKE845jHZtNOHeGx0UEIy2e3672zcggt3QGx+AbIR83vjevhSN3FtEIkCMjuLszgQA7vOigwIDAQAB",
+   "manifest_version": 2,
+   "name": "TicoYoutube Downloader",
+   "permissions": [ "tabs", "http://*/*", "https://*/*" ],
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "0.1"
+}
